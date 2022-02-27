@@ -24,11 +24,16 @@ A step by step series of examples that tell you how to get a developer envioreme
 
 Say what the step will be
 
-> Give the example
+
+~~~
+Give the example
+~~~
 
 and repeat
 
-> until finished
+~~~
+until finished
+~~~
 
 End with an example of getting some data our of the system or using for a little demo
 
